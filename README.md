@@ -237,8 +237,9 @@ AI Food Recommendation
 Multi Restaurant Support
 Delivery Partner Tracking
 Coupon & Offers System
-👨‍💻 Developed By
 
+
+👨‍💻 Developed By
 Sridhar
 
 Full Stack Developer
