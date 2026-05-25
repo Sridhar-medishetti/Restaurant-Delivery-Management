@@ -191,7 +191,6 @@ POST /api/payment/create-order
 
 ▶️ Installation & Setup
 Clone Repository
-git clone https://github.com/your-username/food-delivery-app.git
 Frontend Setup
 cd client
 npm install
